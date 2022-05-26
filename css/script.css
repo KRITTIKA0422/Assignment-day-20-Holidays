@@ -1,0 +1,42 @@
+body{
+  background-image: url("https://imageio.forbes.com/specials-images/dam/imageserve/1128442176/0x0.jpg?format=jpg&width=1200");
+}
+#title{
+  font-size: 50px;
+  text-align: center;
+  color: red;
+  width:100vw;
+  font-weight: bold;
+  font-family:monospace;
+}
+#description{
+  font-size: larger;
+  font-weight: bolder;
+  margin:10px;
+}
+#column1,#column2{
+  margin:20px;
+  margin-left: 100px;
+}
+#country,#year,#day,#month{
+  margin: 10px;
+  border-radius: 5px;
+background-color: bisque;
+color:brown;
+font-weight: bold;
+}
+#submit{
+  background-color: brown;
+  color: bisque;
+  border-radius: 10px;
+  margin-left: 20px;
+  padding:5px;
+  font-weight: bold;
+}
+#display{
+  font-weight: bold;
+  color:brown;
+}
+
+
+ 
